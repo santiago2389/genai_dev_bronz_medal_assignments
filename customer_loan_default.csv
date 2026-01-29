@@ -1,4 +1,4 @@
-Age,Annual Income (Lakhs),Credit Score,Loan Amount (Lakhs),Loan Term (Years),Employment Type,Loan Approved (Yes=1/No=0)
+Age,Annual Income (Lakhs),Credit Score,Loan Amount (Lakhs),Loan Term (Years),Employment Type,Loan (Yes=1/No=0)
 28,6.5,720,5,5,Salaried,0
 45,12,680,10,10,Self-Employed,1
 35,8,750,6,7,Salaried,0
